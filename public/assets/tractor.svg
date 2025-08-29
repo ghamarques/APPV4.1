@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs><linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#0F766E"/><stop offset="1" stop-color="#34D399"/></linearGradient></defs>
+  <rect width="100%" height="100%" fill="#ecfeff"/>
+  <rect x="50" y="160" width="540" height="90" rx="10" fill="url(#g2)" opacity="0.9"/>
+  <circle cx="160" cy="290" r="36" fill="#064e3b"/><circle cx="460" cy="290" r="28" fill="#064e3b"/>
+  <text x="85" y="190" font-size="18" fill="#0f172a" font-family="Inter,Arial">Linha Agrícola</text>
+  <text x="85" y="215" font-size="14" fill="#115e59" font-family="Inter,Arial">Implemento • Dianteira • Traseira</text>
+</svg>
